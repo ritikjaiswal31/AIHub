@@ -1,6 +1,6 @@
-## AIHub: Your All-in-One SaaS AI Platform
+## AIHub: Full-Stack Generative AI SaaS Platform
 
-AIHub is a groundbreaking platform at the forefront of AI integration, amalgamating the formidable capabilities of ChatGPT and DALL.E within a seamless user experience crafted with Next.js, Node.js, Tailwind CSS and Clerk Authentication
+Developed a full-stack SaaS platform integrating ChatGPT and DALL·E using Next.js, Node.js, Tailwind CSS, and Clerk for authentication; delivered seamless user experience for real-time AI-powered text and image generation.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
