@@ -15,10 +15,21 @@ pnpm dev
 # or
 bun dev
 ```
+![image](https://github.com/user-attachments/assets/68d23371-0259-4d29-bad6-76f4df93cfb3)
 
-## Learn More
+Website UI
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/user-attachments/assets/92abb107-f8ae-4103-bcd0-25ee43a278b6)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Backend - API Implementation for Code
+
+![image](https://github.com/user-attachments/assets/6ed679bc-7be9-4d4a-bc39-662572e5ead9)
+
+Frontend – Code generation Page
+
+![image](https://github.com/user-attachments/assets/68834d49-715b-4d93-a1ca-80c114776694)
+
+Frontend – Dashboard Page
+
+
+
