@@ -25,7 +25,7 @@ bun dev
 
 ![image](https://github.com/user-attachments/assets/6ed679bc-7be9-4d4a-bc39-662572e5ead9)
 
-### Frontend – Code generation Page
+### Frontend – Code Generation Page
 
 ![image](https://github.com/user-attachments/assets/68834d49-715b-4d93-a1ca-80c114776694)
 
